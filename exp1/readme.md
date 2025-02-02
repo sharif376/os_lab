@@ -176,5 +176,5 @@
 
 
 
-Conclusion:
+##Conclusion:
 # The Study And Execution Of Unix Commands Has Been Completed Successfully.
